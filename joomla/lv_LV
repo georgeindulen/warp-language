@@ -1,0 +1,21 @@
+; copyright Copyright (C) 2011 YOOtheme GmbH. All rights reserved.
+; license http://www.gnu.org/licenses/gpl.html GNU/GPL
+; Note : All ini files need to be saved as UTF-8
+
+TPL_WARP_SEARCH="meklēt..."
+TPL_WARP_SEARCH_RESULTS="Meklēšanas rezultāti"
+TPL_WARP_SEARCH_MORE="Parādīt visus rezultātus"
+TPL_WARP_SEARCH_NO_RESULTS="Nekas nav atrasts"
+TPL_WARP_POSTED_IN="Publicēts"
+TPL_WARP_EDIT_ARTICLE="Rediģēt rakstu."
+TPL_WARP_CREATE_ARTICLE="Izveidot rakstu."
+TPL_WARP_CONTINUE_READING="Lasīt tālāk"
+TPL_WARP_META_AUTHOR_DATE="Autors: %s. Publicēšanas datums: %s."
+TPL_WARP_META_AUTHOR="Autors: %s."
+TPL_WARP_META_DATE="Publicēšanas datums: %s."
+TPL_WARP_META_CATEGORY="Kategorija: %s."
+TPL_WARP_TAGS="Tagi"
+TPL_WARP_404_PAGE_TITLE="Lapa nav atrodama"
+TPL_WARP_404_PAGE_MESSAGE="Meklējamā lapa nav atrodama, vai notika cita kļūda.<br class="uk-hidden-small">Jūs varat <a href="_QQ_"javascript:history.go(-1)"_QQ_">atgriezties atpakaļ,</a> vai nonākt sākumlapā <a href="_QQ_"%s"_QQ_">%s</a>."
+TPL_WARP_OFFLINE_PAGE_TITLE="Mēs būsim atpakaļ drīzumā"
+TPL_WARP_OFFLINE_PAGE_MESSAGE="Vietne šobrīd ir atslēgta apkopes darbu veikšanai. Nāciet atpakaļ pēc brīža. Administrators var pieslēgties:"
